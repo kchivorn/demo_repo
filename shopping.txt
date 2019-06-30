@@ -2,6 +2,8 @@ Shopping List
 
 apples
 bananas
+car
+doghnut
 yogurt
 milk
 bread
@@ -17,4 +19,4 @@ soup
 ice cream
 sugar
 flour
-
+jackfruit
