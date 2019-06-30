@@ -8,7 +8,7 @@ yogurt
 milk
 bread
 cereal
-eggs
+10 eggs
 bacon
 orange juice
 grapes
